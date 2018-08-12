@@ -8,5 +8,5 @@ This is not the official SkynetV2.3.2, it's my special use case.
 
 See Project on https://www.thingiverse.com/thing:3045799
 
-Like Cura the Licence is GPL.
+Like Marlin the Licence is GPL.
 
